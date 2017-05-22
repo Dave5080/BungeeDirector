@@ -1,0 +1,10 @@
+# A list of the allowed servers
+# where player can be redirected by this plugin.
+#
+# Server's names should be written exactly how in
+# the bungee configuration. This plugin will generate a
+# command with syntax like: '/{SERVERNAME}server'
+# for example: /lobbyserver
+
+servers:
+  - lobby
